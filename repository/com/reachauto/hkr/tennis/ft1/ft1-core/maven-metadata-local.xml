@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.reachauto.hkr.tennis.ft1</groupId>
+  <artifactId>ft1-core</artifactId>
+  <versioning>
+    <release>tools.0.1.evolution</release>
+    <versions>
+      <version>tools.0.1.evolution</version>
+    </versions>
+    <lastUpdated>20170926060944</lastUpdated>
+  </versioning>
+</metadata>
