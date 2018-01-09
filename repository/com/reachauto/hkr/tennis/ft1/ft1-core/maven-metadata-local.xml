@@ -3,10 +3,19 @@
   <groupId>com.reachauto.hkr.tennis.ft1</groupId>
   <artifactId>ft1-core</artifactId>
   <versioning>
-    <release>tools.0.1.evolution</release>
+    <release>tools.6.5.evolution</release>
     <versions>
-      <version>tools.0.1.evolution</version>
+      <version>tools.4.0.evolution</version>
+      <version>tools.4.1.evolution</version>
+      <version>tools.4.2.evolution</version>
+      <version>tools.5.0.evolution</version>
+      <version>tools.5.1.evolution</version>
+      <version>tools.5.2.evolution</version>
+      <version>tools.6.1.evolution</version>
+      <version>tools.6.2.evolution</version>
+      <version>tools.6.4.evolution</version>
+      <version>tools.6.5.evolution</version>
     </versions>
-    <lastUpdated>20170926080715</lastUpdated>
+    <lastUpdated>20171218023011</lastUpdated>
   </versioning>
 </metadata>

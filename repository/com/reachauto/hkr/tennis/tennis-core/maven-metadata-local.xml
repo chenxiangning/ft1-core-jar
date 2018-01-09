@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.reachauto.hkr.tennis</groupId>
+  <artifactId>tennis-core</artifactId>
+  <versioning>
+    <release>tools.7.3.evolution</release>
+    <versions>
+      <version>tools.7.0.evolution</version>
+      <version>tools.7.test.evolution</version>
+      <version>tools.7.1.evolution</version>
+      <version>tools.7.2.evolution</version>
+      <version>tools.7.3.evolution</version>
+    </versions>
+    <lastUpdated>20180109055042</lastUpdated>
+  </versioning>
+</metadata>

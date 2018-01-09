@@ -1,4 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 15 21:52:59 CST 2017
+#Tue Dec 12 19:58:53 CST 2017
+ft1-core-tools.6.4.evolution-sources.jar.asc>=
 ft1-core-tools.6.4.evolution.pom>=
+ft1-core-tools.6.4.evolution-javadoc.jar>=
+ft1-core-tools.6.4.evolution-javadoc.jar.asc>=
+ft1-core-tools.6.4.evolution.pom.asc>=
 ft1-core-tools.6.4.evolution.jar>=
+ft1-core-tools.6.4.evolution-sources.jar>=
+ft1-core-tools.6.4.evolution.jar.asc>=
