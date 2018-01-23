@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 19 13:57:52 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://10.10.142.182\:8082/nexus/content/repositories/releases/.lastUpdated=1516341465568
+https\://repo.maven.apache.org/maven2/.lastUpdated=1516341469641
+https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.error=
+https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.lastUpdated=1516341470934
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1516341472018
+https\://repo.maven.apache.org/maven2/.error=
+http\://10.10.142.182\:8082/nexus/content/repositories/releases/.error=
