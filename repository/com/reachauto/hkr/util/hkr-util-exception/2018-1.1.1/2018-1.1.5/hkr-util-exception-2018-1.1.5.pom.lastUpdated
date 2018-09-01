@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Sep 01 11:42:38 CST 2018
+@default-local-142-182-http\://10.10.142.182\:8082/nexus/content/repositories/releases/.lastUpdated=1535773354798
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1535773356141
+https\://raw.githubusercontent.com/chenxiangning/ft1-core-jar/master/repository/.lastUpdated=1535773356922
+https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.error=
+https\://raw.githubusercontent.com/chenxiangning/ft1-core-jar/master/repository/.error=
+https\://raw.githubusercontent.com/hkr-reach/hkr-repo/master/repository/.lastUpdated=1535773357503
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1535773358509
+https\://repo.maven.apache.org/maven2/.error=
+http\://10.10.142.182\:8082/nexus/content/repositories/releases/.error=Could not transfer artifact com.reachauto.hkr.util\:hkr-util-exception\:pom\:2018-1.1.5 from/to local-142-182 (http\://10.10.142.182\:8082/nexus/content/repositories/releases/)\: Connect to 10.10.142.182\:8082 [/10.10.142.182] failed\: Connection timed out\: connect
